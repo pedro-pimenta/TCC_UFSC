@@ -1,0 +1,5 @@
+Para usar a implementacao de elementos finitos para solucionar uma equacao de Poisson D^2 U = f, 
+com condicoes de fronteira Dirichlet ou Newman, lembrese de criar o seu arquivo de funcoes e incluir ele no inicio de main.c;  crie uma malha com Gmsh, compile a proces_mesh e transfome o seu arquivo *.msh num compativel *.Kmesh   (./executavel arquivo.msh  --- exemplo:./executavel ../mesh/estru.msh); agora na pasta include inicialize no arquivo main.c as funcoes que vc criou e indique que tipo de condicoes de fronteira vao ser usadas e quantas sao, se quer gerar arquivos ou imprimir informacao na tela com print_info agregue eles no main (tem um exemplo comentado no final do arquivo main.c); finalmente faz make clean, depois make e compile usando
+./main.exe arquivo.Kmesh
+
+exemplo ./main.exe ../mesh/estru.Kmesh
