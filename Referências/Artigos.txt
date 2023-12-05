@@ -1,0 +1,22 @@
+Artigos IEEE:
+
+	https://ieeexplore.ieee.org/document/7274746
+
+	https://ieeexplore.ieee.org/document/4339169
+
+Referências:
+
+	https://app.uff.br/riuff/bitstream/handle/1/22769/TCC_NataliaPedroso.pdf?sequence=1&isAllowed=y
+
+	https://app.uff.br/riuff/bitstream/handle/1/11619/113035017%20Joseana%20Veiga%20de%20Souza%20Frango.pdf?sequence=1&isAllowed=y
+
+	https://web.tecgraf.puc-rio.br/~amiranda/MEF/MEF.html
+
+	https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/96623/Ivandra.pdf?sequence=1&isAllowed=y
+
+	https://www.maxwell.vrac.puc-rio.br/11674/11674_4.PDF
+
+	https://cimec.org.ar/foswiki/pub/Main/Cimec/CursoFEM/johnson_numerical_solutions_of_pde_by_fem.pdf
+
+	Introdução ao MEF:
+	http://ftp.demec.ufpr.br/disciplinas/TM266/Apostila/Introdução%20ao%20MEF.pdf
