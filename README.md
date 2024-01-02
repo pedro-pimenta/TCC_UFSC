@@ -4,7 +4,7 @@ Meu trabalho de conclusão de curso em Engenharia de Computação na Universidad
 
 O trabalho foi apresentado em 1 de dezembro de 2023.
 
-O texto final também pode ser acessado via repositório da UFSC no link: *colocar link*
+O texto final também pode ser acessado via repositório da UFSC no link: https://repositorio.ufsc.br/handle/123456789/253106
 
 O código foi implementado utilizando a ferramenta MFEM e GLVis, disponíveis em:
 
